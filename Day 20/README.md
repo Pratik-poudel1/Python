@@ -28,15 +28,20 @@ The goal of this project is to practice **Python automation** by creating a scri
 ## 🚀 Features
 
 A. Automatically scans a selected folder
+<br>
 B. Detects file types using extensions
+<br>
 C. Creates folders if they don't exist
+<br>
 D. Organizes files into categories:
+<br>
   1) Images
   2) Documents
   3) Videos
   4) Music
   5) Archives
   6) Others
+<br>
 E. Simple and beginner-friendly code
 
 ---
