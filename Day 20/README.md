@@ -1,4 +1,4 @@
-# 📂 Automated File Organizer
+# Automated File Organizer
 
 A Python automation script that scans a folder and automatically organizes files into categorized subfolders such as Images, Documents, Videos, Music, Archives, and Others.
 
@@ -6,7 +6,7 @@ This project helps keep directories clean and structured by sorting files based 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this project is to practice **Python automation** by creating a script that can:
 
@@ -17,7 +17,7 @@ The goal of this project is to practice **Python automation** by creating a scri
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 1. Python
 2. pathlib
@@ -25,7 +25,7 @@ The goal of this project is to practice **Python automation** by creating a scri
 
 ---
 
-## 🚀 Features
+## Features
 
 A. Automatically scans a selected folder
 <br>
