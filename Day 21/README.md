@@ -43,13 +43,13 @@ pip install customtkinter
 3. Save the program file as:
 
 ```
-greeting_gui.py
+Greeting_GUI.py
 ```
 
 4. Run the program with this command:
 
 ```
-python greeting_gui.py
+python Greeting_GUI.py
 ```
 
 ## Example Output
@@ -60,7 +60,7 @@ After entering a name and pressing the button, the window will display a greetin
 ## File Structure
 
 ```
-greeting_gui.py
+Greeting_GUI.py
 ```
 
 ## Purpose of the Project
