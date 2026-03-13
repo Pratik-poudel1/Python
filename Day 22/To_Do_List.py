@@ -1,7 +1,6 @@
 import customtkinter as ctk
 
 app = ctk.CTk()
-app = ctk.CTk()
 
 width = 400
 height = 450
