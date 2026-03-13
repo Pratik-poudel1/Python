@@ -36,7 +36,6 @@ def add_task():
 
     entry.delete(0, "end")
 
-# add task button
 add_button = ctk.CTkButton(app, text="Add Task", command=add_task)
 add_button.pack(pady=5)
 
