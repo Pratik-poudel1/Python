@@ -1,0 +1,13 @@
+# Database and user data
+users/
+*.sqlite3
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
